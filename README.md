@@ -20,3 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-dias-barreto&show_icons=true&locale=en" alt="joshua-dias-barreto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-dias-barreto&" alt="joshua-dias-barreto" /></p>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joshua-Dias-Barreto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+

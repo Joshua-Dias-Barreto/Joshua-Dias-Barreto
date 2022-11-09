@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **joshuadiasbarreto@gmal.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Platforms on which I compete:</h3>
 <p align="left">
 <a href="https://kaggle.com/josh_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="josh_03" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/josh_030603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="josh_030603" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Dias Barreto</h1>
-<h3 align="center">A Deep Learning enthusiast</h3>
+<h3 align="center">A Deep Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-dias-barreto&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-dias-barreto" /> </p>
 

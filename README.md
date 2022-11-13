@@ -25,4 +25,6 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Joshua-Dias-Barreto&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![](https://visitcount.itsvg.in/api?id=Joshua-Dias-Barreto&icon=0&color=0)](https://visitcount.itsvg.in)
+
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-dias-barreto&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-dias-barreto" /> </p>
 
-- 📫 How to reach me **joshuadiasbarreto@gmal.com** or **21cs01075@iitbbs.ac.in**
+- 📫 How to reach me **joshuadiasbarreto@gmal.com**
 
 <h3 align="left">Platforms on which I compete :</h3>
 <p align="left">
